@@ -5,17 +5,18 @@ to get started with the script, download python and download the latest version 
 
 open Basalt Miner like this
 
-![1](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/011cb349-e962-4385-979e-56ead0069964)
+
+![1](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/1679bba5-397a-42c5-a4be-a9cc23bb2d93)
 
 
 then we take a screenshot and use any graphic editor I personally use GIMP (I will show using GIMP as an example) go into the program and import our skinshot
 
+![3](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/1d55f821-6e35-4820-ab22-7b3bac0ee080)
 
-![3](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/7471114b-3354-438b-8979-3a9a0a8558c2)
 
 then select our block with the "framing" tool and look at the value underlined in the screenshot
 
-![2](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/1ab7d6a2-a830-4667-a371-0bd53ac3a08b)
+![2](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/4d94be17-0620-4b42-ad8b-55735872731a)
 
 
 then we write the data to the opened console, the first value is on the left, the second on top
