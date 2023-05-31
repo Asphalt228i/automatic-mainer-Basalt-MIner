@@ -1,26 +1,24 @@
-a script that will mine blocks for you
+Скрипт, который будет добывать блоки за вас
+
+чтобы начать работу со скриптом, загрузите python и скачайте последнюю версию моего скрипта
+
+откройте Basalt Miner вот так
+
+![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/08db17c9-3f63-4995-b50f-ac439bbc0b60)
 
 
-to get started with the script, download python and download the latest version of my script
+далее делаем скриншот и используем любой графический редактор  я использую GIMP (покажу на примере GIMP) заходим в программу и импортируем наш скриншот
 
-open Basalt Miner like this
-
-
-![1](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/1679bba5-397a-42c5-a4be-a9cc23bb2d93)
+![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/1d55f821-6e35-4820-ab22-7b3bac0ee080)
 
 
-then we take a screenshot and use any graphic editor I personally use GIMP (I will show using GIMP as an example) go into the program and import our skinshot
+затем выбираем наш блок инструментом "кадрирование" и смотрим на значение, подчеркнутое на скриншоте
 
-![3](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/1d55f821-6e35-4820-ab22-7b3bac0ee080)
-
-
-then select our block with the "framing" tool and look at the value underlined in the screenshot
-
-![2](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/4d94be17-0620-4b42-ad8b-55735872731a)
+![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/4d94be17-0620-4b42-ad8b-55735872731a)
 
 
-then we write the data to the opened console, the first value is on the left, the second on top
+далее пишем данные в открывшуюся консоль, первое значение "left", второе "top"
 
-after that, the script will work itself, to turn off the script, press the ctrl + shift + Esc combination and find the miner.exe file and stop it
+после этого скрипт заработает сам, для выключения скрипта нажмите комбинацию ctrl+shift+Esc и найдите файл miner.exe и остановите его
 
-if you want to help me add more mine, just take screenshots of each high level mine block and send it to me on discord widra_sire#3219
+если вы хотите помочь мне добавить больше шахты, просто сделайте скриншот каждого блока шахт высокого уровня и отправьте мне в дискорд widra_sire#3219
