@@ -1,15 +1,10 @@
 import pyautogui
 import time
 import numpy as np
-print("видите left")
-a2 = int(input())
 
-print("видите top")
-
-a3 = int(input())
-
-a = {   "top": a2,
-        "left": a3,
+#"top": 356,"left": 306
+a = {   "top": 356,
+        "left": 306,
         "width": 190,
         'height': 190,}
 
