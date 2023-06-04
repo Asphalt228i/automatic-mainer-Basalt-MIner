@@ -2,7 +2,7 @@
 
 чтобы начать работу со скриптом, загрузите python и скачайте последнюю версию моего скрипта
 
-откройте Basalt Miner вот так
+откройте Basalt Miner вот так(то есть на пол экрана)
 
 ![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/08db17c9-3f63-4995-b50f-ac439bbc0b60)
 
