@@ -7,7 +7,7 @@ ___________________________________________________________
 
 - **скачать** [**Python**](https://www.python.org/downloads/)
 - **скачать последнию версию моего скипта**
-- **изучить эту** [**таблицу**](https://1drv.ms/x/s!AklgF2YNUVdpc-zYa6Ty8vMG0F4?e=fB9cox)
+- **изучить эту** [**таблицу**](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/blob/main/table.md)
 
 ---
 ### **Как настроить настройке**
