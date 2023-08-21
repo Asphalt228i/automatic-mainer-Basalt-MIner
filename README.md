@@ -17,21 +17,22 @@ ___________________________________________________________
 
 рис.1
 
-![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/0c2a47a1-254b-4ea3-9f5c-0ad8f06d05a7)
+![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/965f2ff3-2a9f-49f1-bc45-f7c540e74697)
 
 
 2. Делаем скриншот и вставляем в любой графический редактор рис.2(*я буду использовать GIMP*)
 
 рис.2
 
-![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/b7a1b59d-4f02-4065-a1d0-80c549059ab5)
+![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/d2481b04-81b5-4608-bf37-1950f9e5faf6)
+
 
 3. При помощи инструмента кадрирования выделяем блок и смотри на значения
 подчёркнуты на рис.3
 
 рис.3
 
-![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/7f8bba1c-c67b-452d-954e-cda3e1f60e3f)
+![ ](https://github.com/Asphalt228i/automatic-mainer-Basalt-MIner/assets/98819672/f34dd206-878d-41d9-a866-481a849aea1a)
 
 
 4. Запускаем наш скрипт и вводим значение которые мы узнали,
